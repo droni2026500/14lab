@@ -1,4 +1,4 @@
-# vue6
+# 14lab
 
 ## Project setup
 ```
