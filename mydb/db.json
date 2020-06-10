@@ -1,0 +1,12 @@
+{
+  "mas": [
+    {
+      "firstName": "asdasd",
+      "secondName": "adasd",
+      "patronymic": "asdas",
+      "phone": "asas",
+      "favorite": true,
+      "id": 1
+    }
+  ]
+}
